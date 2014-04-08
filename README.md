@@ -3,11 +3,11 @@ HelloWorld
 
 This is supposed to be the first test committed to my github repository.
 
-1. Create a repository in my github account.
+Create a repository in my github account.
 
-2. Set up the local git repository;
+Set up the local git repository;
 * git config --global user.name "Jian Tang"
-* git config --global user.email "tang@mpp.mpg.de"
+* git config --global user.email "tangATmpp.mpg.de"
 * mkdir HelloWorld
 * cd HelloWorld
 * git init
