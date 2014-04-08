@@ -14,7 +14,7 @@ Set up the local git repository;
 * git add HiWorld.cpp Makefile
 * git commit -m 'first time'
 
-3. Push the commit into the repository.
+Push the commit into the repository.
 * git pull https://github.com/jtang3/HelloWorld.git
 * git remote add origin https://github.com/jtang3/HelloWorld.git
 * git push origin master
